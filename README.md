@@ -1,16 +1,13 @@
-## Hi there 👋
+### "都来到这里了，不给个🌟再走吗？"
 
-<!--
-**opsCoffee/opsCoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Github Stats
 
-Here are some ideas to get you started:
+![opsCoffee 的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=opsCoffee&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 访客统计
+
+![访问量统计](https://profile-counter.glitch.me/kenyon/count.svg)
+
+### 个人贡献版
+
+![个人贡献版](https://ghchart.rshah.org/opsCoffee)
